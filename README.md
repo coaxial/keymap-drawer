@@ -336,6 +336,7 @@ Below are a few tools and example usages from the community that might be inspir
 - [infused-kim's ZMK config](https://github.com/infused-kim/zmk-config): Defines a script to [tweak the keymap](https://github.com/infused-kim/zmk-config/blob/main/keymap_img/keymap_img_adjuster.py) between parsing and drawing
 - [crides's Fissure write-up](https://github.com/crides/fissure): Custom physical layout with non-square keys and unique SVG styling
 - [My ZMK config](https://github.com/caksoylar/zmk-config): ...in case you are curious how I use keymap-drawer
+- [coaxial's GitHub Actions pipeline](https://github.com/coaxial/qmk_keymap): Generate SVG of QMK keymap, commit it to the repo, show it in the README, compile firmware, and automatically create semantically versioned releases with each merge
 
 If you use `keymap-drawer`, tag your Github repo with the [`keymap-drawer` topic](https://github.com/topics/keymap-drawer) and it will show up for anyone else searching for it!
 
